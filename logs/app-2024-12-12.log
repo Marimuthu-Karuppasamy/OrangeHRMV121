@@ -1,0 +1,92 @@
+[DEBUG] 2024-12-12 19:41:26.581 [main] TestNG - suiteXmlPath: "C:\Users\marimuthu k\eclipse-workspace2\OrangeHRMV121\master.xml"
+[INFO ] 2024-12-12 19:41:26.865 [main] Utils - [TestNG] Running:
+  C:\Users\marimuthu k\eclipse-workspace2\OrangeHRMV121\master.xml
+
+[DEBUG] 2024-12-12 19:41:38.298 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-12-12 19:41:38.301 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-12-12 19:41:38.309 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-12-12 19:41:38.650 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-12-12 19:41:38.758 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-12-12 19:41:38.760 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-12-12 19:41:38.761 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-12-12 19:41:38.775 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-12-12 19:41:38.797 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-12-12 19:41:38.799 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-12-12 19:41:38.802 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-12-12 19:41:38.815 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-12-12 19:41:38.846 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-12-12 19:41:38.848 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-12-12 19:41:38.850 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-12-12 19:41:38.865 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-12-12 19:41:38.884 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-12-12 19:41:38.886 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-12-12 19:41:38.889 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-12-12 19:41:38.901 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-12-12 19:41:38.923 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-12-12 19:41:38.925 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-12-12 19:41:38.927 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-12-12 19:41:38.939 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-12-12 19:42:40.230 [main] Utils - [TestNG] Running:
+  C:\Users\marimuthu k\eclipse-workspace2\OrangeHRMV121\master.xml
+
+[INFO ] 2024-12-12 22:59:26.340 [main] Utils - [TestNG] Running:
+  C:\Users\marimuthu k\eclipse-workspace2\OrangeHRMV121\master.xml
+
+[INFO ] 2024-12-12 23:05:18.635 [main] Utils - [TestNG] Running:
+  C:\Users\marimuthu k\eclipse-workspace2\OrangeHRMV121\master.xml
+
+[INFO ] 2024-12-12 23:05:25.805 [main] TC003_LoginDDT - ***** Starting TC003_OrangeHRM_LoginDDT Test *****
+[INFO ] 2024-12-12 23:05:25.914 [main] TC003_LoginDDT - ***** Starting TC003_OrangeHRM_LoginDDT Test *****
+[INFO ] 2024-12-12 23:05:25.980 [main] TC003_LoginDDT - ***** Starting TC003_OrangeHRM_LoginDDT Test *****
+[INFO ] 2024-12-12 23:05:26.033 [main] TC003_LoginDDT - ***** Starting TC003_OrangeHRM_LoginDDT Test *****
+[INFO ] 2024-12-12 23:07:00.732 [main] Utils - [TestNG] Running:
+  C:\Users\marimuthu k\eclipse-workspace2\OrangeHRMV121\master.xml
+
+[INFO ] 2024-12-12 23:07:09.305 [main] TC003_LoginDDT - ***** Starting TC003_OrangeHRM_LoginDDT Test *****
+[INFO ] 2024-12-12 23:07:09.361 [main] TC003_LoginDDT - ***** Starting TC003_OrangeHRM_LoginDDT Test *****
+[INFO ] 2024-12-12 23:07:09.377 [main] TC003_LoginDDT - ***** Starting TC003_OrangeHRM_LoginDDT Test *****
+[INFO ] 2024-12-12 23:07:09.400 [main] TC003_LoginDDT - ***** Starting TC003_OrangeHRM_LoginDDT Test *****
+[INFO ] 2024-12-12 23:09:43.635 [main] Utils - [TestNG] Running:
+  C:\Users\marimuthu k\eclipse-workspace2\OrangeHRMV121\master.xml
+
+[INFO ] 2024-12-12 23:09:50.832 [main] TC003_LoginDDT - ***** Starting TC003_OrangeHRM_LoginDDT Test *****
+[INFO ] 2024-12-12 23:09:50.982 [main] TC003_LoginDDT - Enter the UserName
+[INFO ] 2024-12-12 23:09:51.107 [main] TC003_LoginDDT - Enter the Password
+[INFO ] 2024-12-12 23:09:52.311 [main] TC003_LoginDDT - Clicked on Login button
+[INFO ] 2024-12-12 23:09:54.324 [main] TC003_LoginDDT - *******TC003_Test End!...******
+[INFO ] 2024-12-12 23:09:54.333 [main] TC003_LoginDDT - ***** Starting TC003_OrangeHRM_LoginDDT Test *****
+[INFO ] 2024-12-12 23:09:55.252 [main] TC003_LoginDDT - Enter the UserName
+[INFO ] 2024-12-12 23:09:55.387 [main] TC003_LoginDDT - Enter the Password
+[INFO ] 2024-12-12 23:09:56.231 [main] TC003_LoginDDT - Clicked on Login button
+[INFO ] 2024-12-12 23:10:06.292 [main] TC003_LoginDDT - *******TC003_Test End!...******
+[INFO ] 2024-12-12 23:10:06.308 [main] TC003_LoginDDT - ***** Starting TC003_OrangeHRM_LoginDDT Test *****
+[INFO ] 2024-12-12 23:10:06.389 [main] TC003_LoginDDT - Enter the UserName
+[INFO ] 2024-12-12 23:10:06.484 [main] TC003_LoginDDT - Enter the Password
+[INFO ] 2024-12-12 23:10:07.228 [main] TC003_LoginDDT - Clicked on Login button
+[INFO ] 2024-12-12 23:10:17.255 [main] TC003_LoginDDT - *******TC003_Test End!...******
+[INFO ] 2024-12-12 23:10:17.259 [main] TC003_LoginDDT - ***** Starting TC003_OrangeHRM_LoginDDT Test *****
+[INFO ] 2024-12-12 23:10:17.361 [main] TC003_LoginDDT - Enter the UserName
+[INFO ] 2024-12-12 23:10:17.513 [main] TC003_LoginDDT - Enter the Password
+[INFO ] 2024-12-12 23:10:17.584 [main] TC003_LoginDDT - Clicked on Login button
+[INFO ] 2024-12-12 23:12:51.161 [main] Utils - [TestNG] Running:
+  C:\Users\marimuthu k\eclipse-workspace2\OrangeHRMV121\master.xml
+
+[INFO ] 2024-12-12 23:13:00.530 [main] TC003_LoginDDT - ***** Starting TC003_OrangeHRM_LoginDDT Test *****
+[INFO ] 2024-12-12 23:13:00.650 [main] TC003_LoginDDT - Enter the UserName
+[INFO ] 2024-12-12 23:13:00.782 [main] TC003_LoginDDT - Enter the Password
+[INFO ] 2024-12-12 23:13:02.053 [main] TC003_LoginDDT - Clicked on Login button
+[INFO ] 2024-12-12 23:13:04.390 [main] TC003_LoginDDT - *******TC003_Test End!...******
+[INFO ] 2024-12-12 23:13:04.399 [main] TC003_LoginDDT - ***** Starting TC003_OrangeHRM_LoginDDT Test *****
+[INFO ] 2024-12-12 23:13:04.896 [main] TC003_LoginDDT - Enter the UserName
+[INFO ] 2024-12-12 23:13:05.085 [main] TC003_LoginDDT - Enter the Password
+[INFO ] 2024-12-12 23:13:06.254 [main] TC003_LoginDDT - Clicked on Login button
+[INFO ] 2024-12-12 23:13:08.251 [main] TC003_LoginDDT - ***** Starting TC003_OrangeHRM_LoginDDT Test *****
+[INFO ] 2024-12-12 23:13:08.743 [main] TC003_LoginDDT - Enter the UserName
+[INFO ] 2024-12-12 23:13:08.843 [main] TC003_LoginDDT - Enter the Password
+[INFO ] 2024-12-12 23:13:09.699 [main] TC003_LoginDDT - Clicked on Login button
+[INFO ] 2024-12-12 23:13:19.772 [main] TC003_LoginDDT - *******TC003_Test End!...******
+[INFO ] 2024-12-12 23:13:19.772 [main] TC003_LoginDDT - ***** Starting TC003_OrangeHRM_LoginDDT Test *****
+[INFO ] 2024-12-12 23:13:19.941 [main] TC003_LoginDDT - Enter the UserName
+[INFO ] 2024-12-12 23:13:20.137 [main] TC003_LoginDDT - Enter the Password
+[INFO ] 2024-12-12 23:13:21.049 [main] TC003_LoginDDT - Clicked on Login button
+[INFO ] 2024-12-12 23:13:31.103 [main] TC003_LoginDDT - *******TC003_Test End!...******

@@ -1,0 +1,205 @@
+[INFO ] 2024-12-14 12:30:55.483 [main] Utils - [TestNG] Running:
+  C:\Users\marimuthu k\eclipse-workspace2\OrangeHRMV121\grouping.xml
+
+[INFO ] 2024-12-14 12:31:04.635 [main] TC001_OrangeHRMLoginTest - ***** Starting TC001_OrangeHRMLoginTest *****
+[INFO ] 2024-12-14 12:31:05.037 [main] TC001_OrangeHRMLoginTest - Enter the UserName
+[INFO ] 2024-12-14 12:31:05.151 [main] TC001_OrangeHRMLoginTest - Enter the Password
+[INFO ] 2024-12-14 12:31:06.400 [main] TC001_OrangeHRMLoginTest - Clicked on Login button
+[INFO ] 2024-12-14 12:31:06.793 [main] TC001_OrangeHRMLoginTest - Validating expected message!
+[INFO ] 2024-12-14 12:31:06.793 [main] TC001_OrangeHRMLoginTest - Finished TC001_OrangeHRMLoginTest!....
+[INFO ] 2024-12-14 12:31:12.407 [main] TC002_RequirementTest - *****Starting TC_002_RecruitmentTest******
+[INFO ] 2024-12-14 12:31:14.564 [main] TC002_RequirementTest - clicked on Recruitment!
+[INFO ] 2024-12-14 12:31:16.031 [main] TC002_RequirementTest - Add Candidate
+[INFO ] 2024-12-14 12:31:17.484 [main] TC002_RequirementTest - *****Finished TC_002_RequirementTest******
+[INFO ] 2024-12-14 12:33:20.478 [main] Utils - [TestNG] Running:
+  C:\Users\marimuthu k\eclipse-workspace2\OrangeHRMV121\grouping.xml
+
+[INFO ] 2024-12-14 12:33:26.868 [main] TC001_OrangeHRMLoginTest - ***** Starting TC001_OrangeHRMLoginTest *****
+[INFO ] 2024-12-14 12:33:27.292 [main] TC001_OrangeHRMLoginTest - Enter the UserName
+[INFO ] 2024-12-14 12:33:27.415 [main] TC001_OrangeHRMLoginTest - Enter the Password
+[INFO ] 2024-12-14 12:33:28.668 [main] TC001_OrangeHRMLoginTest - Clicked on Login button
+[INFO ] 2024-12-14 12:33:29.093 [main] TC001_OrangeHRMLoginTest - Validating expected message!
+[INFO ] 2024-12-14 12:33:29.093 [main] TC001_OrangeHRMLoginTest - Finished TC001_OrangeHRMLoginTest!....
+[INFO ] 2024-12-14 12:33:34.156 [main] TC002_RequirementTest - *****Starting TC_002_RecruitmentTest******
+[INFO ] 2024-12-14 12:33:36.298 [main] TC002_RequirementTest - clicked on Recruitment!
+[INFO ] 2024-12-14 12:33:37.885 [main] TC002_RequirementTest - Add Candidate
+[INFO ] 2024-12-14 12:33:39.411 [main] TC002_RequirementTest - *****Finished TC_002_RequirementTest******
+[INFO ] 2024-12-14 12:34:42.383 [main] Utils - [TestNG] Running:
+  C:\Users\marimuthu k\eclipse-workspace2\OrangeHRMV121\grouping.xml
+
+[INFO ] 2024-12-14 12:34:48.253 [main] TC001_OrangeHRMLoginTest - ***** Starting TC001_OrangeHRMLoginTest *****
+[INFO ] 2024-12-14 12:34:48.651 [main] TC001_OrangeHRMLoginTest - Enter the UserName
+[INFO ] 2024-12-14 12:34:48.757 [main] TC001_OrangeHRMLoginTest - Enter the Password
+[INFO ] 2024-12-14 12:34:49.987 [main] TC001_OrangeHRMLoginTest - Clicked on Login button
+[INFO ] 2024-12-14 12:34:50.386 [main] TC001_OrangeHRMLoginTest - Validating expected message!
+[INFO ] 2024-12-14 12:34:50.387 [main] TC001_OrangeHRMLoginTest - Finished TC001_OrangeHRMLoginTest!....
+[INFO ] 2024-12-14 12:34:55.753 [main] TC002_RequirementTest - *****Starting TC_002_RecruitmentTest******
+[INFO ] 2024-12-14 12:34:57.905 [main] TC002_RequirementTest - clicked on Recruitment!
+[INFO ] 2024-12-14 12:34:59.390 [main] TC002_RequirementTest - Add Candidate
+[INFO ] 2024-12-14 12:35:00.763 [main] TC002_RequirementTest - *****Finished TC_002_RequirementTest******
+[INFO ] 2024-12-14 12:37:03.077 [main] Utils - [TestNG] Running:
+  C:\Users\marimuthu k\eclipse-workspace2\OrangeHRMV121\grouping.xml
+
+[INFO ] 2024-12-14 12:37:09.186 [main] TC001_OrangeHRMLoginTest - ***** Starting TC001_OrangeHRMLoginTest *****
+[INFO ] 2024-12-14 12:37:09.598 [main] TC001_OrangeHRMLoginTest - Enter the UserName
+[INFO ] 2024-12-14 12:37:09.696 [main] TC001_OrangeHRMLoginTest - Enter the Password
+[INFO ] 2024-12-14 12:37:10.616 [main] TC001_OrangeHRMLoginTest - Clicked on Login button
+[INFO ] 2024-12-14 12:37:29.581 [main] TC002_RequirementTest - *****Starting TC_002_RecruitmentTest******
+[INFO ] 2024-12-14 12:42:20.518 [main] Utils - [TestNG] Running:
+  C:\Users\marimuthu k\eclipse-workspace2\OrangeHRMV121\grouping.xml
+
+[INFO ] 2024-12-14 12:48:38.549 [main] Utils - [TestNG] Running:
+  C:\Users\marimuthu k\eclipse-workspace2\OrangeHRMV121\grouping.xml
+
+[INFO ] 2024-12-14 12:49:59.109 [main] Utils - [TestNG] Running:
+  C:\Users\marimuthu k\eclipse-workspace2\OrangeHRMV121\grouping.xml
+
+[INFO ] 2024-12-14 12:50:45.555 [main] Utils - [TestNG] Running:
+  C:\Users\marimuthu k\eclipse-workspace2\OrangeHRMV121\grouping.xml
+
+[INFO ] 2024-12-14 12:52:08.896 [main] Utils - [TestNG] Running:
+  C:\Users\marimuthu k\eclipse-workspace2\OrangeHRMV121\grouping.xml
+
+[INFO ] 2024-12-14 12:53:41.291 [main] Utils - [TestNG] Running:
+  C:\Users\marimuthu k\eclipse-workspace2\OrangeHRMV121\grouping.xml
+
+[INFO ] 2024-12-14 12:53:47.365 [main] TC001_OrangeHRMLoginTest - ***** Starting TC001_OrangeHRMLoginTest *****
+[INFO ] 2024-12-14 12:53:47.765 [main] TC001_OrangeHRMLoginTest - Enter the UserName
+[INFO ] 2024-12-14 12:53:47.866 [main] TC001_OrangeHRMLoginTest - Enter the Password
+[INFO ] 2024-12-14 12:53:48.774 [main] TC001_OrangeHRMLoginTest - Clicked on Login button
+[INFO ] 2024-12-14 12:54:04.308 [main] TC002_RequirementTest - *****Starting TC_002_RecruitmentTest******
+[INFO ] 2024-12-14 12:55:23.710 [main] Utils - [TestNG] Running:
+  C:\Users\marimuthu k\eclipse-workspace2\OrangeHRMV121\grouping.xml
+
+[INFO ] 2024-12-14 12:55:29.667 [main] TC001_OrangeHRMLoginTest - ***** Starting TC001_OrangeHRMLoginTest *****
+[INFO ] 2024-12-14 12:55:30.049 [main] TC001_OrangeHRMLoginTest - Enter the UserName
+[INFO ] 2024-12-14 12:55:30.159 [main] TC001_OrangeHRMLoginTest - Enter the Password
+[INFO ] 2024-12-14 12:55:31.402 [main] TC001_OrangeHRMLoginTest - Clicked on Login button
+[INFO ] 2024-12-14 12:55:31.764 [main] TC001_OrangeHRMLoginTest - Validating expected message!
+[INFO ] 2024-12-14 12:55:31.764 [main] TC001_OrangeHRMLoginTest - Finished TC001_OrangeHRMLoginTest!....
+[INFO ] 2024-12-14 12:55:36.860 [main] TC002_RequirementTest - *****Starting TC_002_RecruitmentTest******
+[INFO ] 2024-12-14 12:55:38.925 [main] TC002_RequirementTest - clicked on Recruitment!
+[INFO ] 2024-12-14 12:55:40.446 [main] TC002_RequirementTest - Add Candidate
+[INFO ] 2024-12-14 12:55:41.913 [main] TC002_RequirementTest - *****Finished TC_002_RequirementTest******
+[INFO ] 2024-12-14 13:08:52.071 [main] Utils - [TestNG] Running:
+  C:\Users\marimuthu k\eclipse-workspace2\OrangeHRMV121\grouping.xml
+
+[INFO ] 2024-12-14 13:08:58.168 [main] TC001_OrangeHRMLoginTest - ***** Starting TC001_OrangeHRMLoginTest *****
+[INFO ] 2024-12-14 13:08:58.574 [main] TC001_OrangeHRMLoginTest - Enter the UserName
+[INFO ] 2024-12-14 13:08:58.675 [main] TC001_OrangeHRMLoginTest - Enter the Password
+[INFO ] 2024-12-14 13:08:59.956 [main] TC001_OrangeHRMLoginTest - Clicked on Login button
+[INFO ] 2024-12-14 13:09:00.345 [main] TC001_OrangeHRMLoginTest - Validating expected message!
+[INFO ] 2024-12-14 13:09:00.345 [main] TC001_OrangeHRMLoginTest - Finished TC001_OrangeHRMLoginTest!....
+[INFO ] 2024-12-14 13:09:05.612 [main] TC002_RequirementTest - *****Starting TC_002_RecruitmentTest******
+[INFO ] 2024-12-14 13:09:07.796 [main] TC002_RequirementTest - clicked on Recruitment!
+[INFO ] 2024-12-14 13:09:09.358 [main] TC002_RequirementTest - Add Candidate
+[INFO ] 2024-12-14 13:09:10.793 [main] TC002_RequirementTest - *****Finished TC_002_RequirementTest******
+[INFO ] 2024-12-14 13:33:47.697 [main] Utils - [TestNG] Running:
+  C:\Users\marimuthu k\eclipse-workspace2\OrangeHRMV121\grouping.xml
+
+[INFO ] 2024-12-14 13:33:55.268 [main] TC001_OrangeHRMLoginTest - ***** Starting TC001_OrangeHRMLoginTest *****
+[INFO ] 2024-12-14 13:33:55.657 [main] TC001_OrangeHRMLoginTest - Enter the UserName
+[INFO ] 2024-12-14 13:33:55.761 [main] TC001_OrangeHRMLoginTest - Enter the Password
+[INFO ] 2024-12-14 13:33:57.013 [main] TC001_OrangeHRMLoginTest - Clicked on Login button
+[INFO ] 2024-12-14 13:33:57.369 [main] TC001_OrangeHRMLoginTest - Validating expected message!
+[INFO ] 2024-12-14 13:33:57.369 [main] TC001_OrangeHRMLoginTest - Finished TC001_OrangeHRMLoginTest!....
+[INFO ] 2024-12-14 13:34:02.862 [main] TC002_RequirementTest - *****Starting TC_002_RecruitmentTest******
+[INFO ] 2024-12-14 13:34:05.001 [main] TC002_RequirementTest - clicked on Recruitment!
+[INFO ] 2024-12-14 13:34:06.408 [main] TC002_RequirementTest - Add Candidate
+[INFO ] 2024-12-14 13:34:07.827 [main] TC002_RequirementTest - *****Finished TC_002_RequirementTest******
+[INFO ] 2024-12-14 13:35:04.645 [main] Utils - [TestNG] Running:
+  C:\Users\marimuthu k\eclipse-workspace2\OrangeHRMV121\grouping.xml
+
+[INFO ] 2024-12-14 13:35:10.107 [main] TC001_OrangeHRMLoginTest - ***** Starting TC001_OrangeHRMLoginTest *****
+[INFO ] 2024-12-14 13:35:10.482 [main] TC001_OrangeHRMLoginTest - Enter the UserName
+[INFO ] 2024-12-14 13:35:10.584 [main] TC001_OrangeHRMLoginTest - Enter the Password
+[INFO ] 2024-12-14 13:35:11.513 [main] TC001_OrangeHRMLoginTest - Clicked on Login button
+[INFO ] 2024-12-14 13:35:27.443 [main] TC002_RequirementTest - *****Starting TC_002_RecruitmentTest******
+[INFO ] 2024-12-14 13:35:29.580 [main] TC002_RequirementTest - clicked on Recruitment!
+[INFO ] 2024-12-14 13:35:31.034 [main] TC002_RequirementTest - Add Candidate
+[INFO ] 2024-12-14 13:35:32.468 [main] TC002_RequirementTest - *****Finished TC_002_RequirementTest******
+[INFO ] 2024-12-14 13:38:34.781 [main] Utils - [TestNG] Running:
+  C:\Users\marimuthu k\eclipse-workspace2\OrangeHRMV121\test-output\testng-failed.xml
+
+[INFO ] 2024-12-14 13:38:40.870 [main] TC001_OrangeHRMLoginTest - ***** Starting TC001_OrangeHRMLoginTest *****
+[INFO ] 2024-12-14 13:38:41.311 [main] TC001_OrangeHRMLoginTest - Enter the UserName
+[INFO ] 2024-12-14 13:38:41.421 [main] TC001_OrangeHRMLoginTest - Enter the Password
+[INFO ] 2024-12-14 13:38:43.047 [main] TC001_OrangeHRMLoginTest - Clicked on Login button
+[INFO ] 2024-12-14 13:38:43.437 [main] TC001_OrangeHRMLoginTest - Validating expected message!
+[INFO ] 2024-12-14 13:38:43.437 [main] TC001_OrangeHRMLoginTest - Finished TC001_OrangeHRMLoginTest!....
+[INFO ] 2024-12-14 17:55:12.698 [main] Utils - [TestNG] Running:
+  C:\Users\marimuthu k\eclipse-workspace2\OrangeHRMV121\master.xml
+
+[INFO ] 2024-12-14 17:55:21.184 [main] TC003_LoginDDT - ***** Starting TC003_OrangeHRM_LoginDDT Test *****
+[INFO ] 2024-12-14 17:55:21.321 [main] TC003_LoginDDT - Enter the UserName
+[INFO ] 2024-12-14 17:55:21.420 [main] TC003_LoginDDT - Enter the Password
+[INFO ] 2024-12-14 17:55:22.558 [main] TC003_LoginDDT - Clicked on Login button
+[INFO ] 2024-12-14 17:55:25.049 [main] TC003_LoginDDT - *******TC003_Test End!...******
+[INFO ] 2024-12-14 17:55:25.079 [main] TC003_LoginDDT - ***** Starting TC003_OrangeHRM_LoginDDT Test *****
+[INFO ] 2024-12-14 17:55:25.497 [main] TC003_LoginDDT - Enter the UserName
+[INFO ] 2024-12-14 17:55:25.618 [main] TC003_LoginDDT - Enter the Password
+[INFO ] 2024-12-14 17:55:26.746 [main] TC003_LoginDDT - Clicked on Login button
+[INFO ] 2024-12-14 17:55:29.563 [main] TC003_LoginDDT - ***** Starting TC003_OrangeHRM_LoginDDT Test *****
+[INFO ] 2024-12-14 17:55:29.841 [main] TC003_LoginDDT - Enter the UserName
+[INFO ] 2024-12-14 17:55:29.967 [main] TC003_LoginDDT - Enter the Password
+[INFO ] 2024-12-14 17:55:30.768 [main] TC003_LoginDDT - Clicked on Login button
+[INFO ] 2024-12-14 17:55:40.844 [main] TC003_LoginDDT - *******TC003_Test End!...******
+[INFO ] 2024-12-14 17:55:40.851 [main] TC003_LoginDDT - ***** Starting TC003_OrangeHRM_LoginDDT Test *****
+[INFO ] 2024-12-14 17:55:40.972 [main] TC003_LoginDDT - Enter the UserName
+[INFO ] 2024-12-14 17:55:41.076 [main] TC003_LoginDDT - Enter the Password
+[INFO ] 2024-12-14 17:55:41.197 [main] TC003_LoginDDT - Clicked on Login button
+[INFO ] 2024-12-14 17:55:51.921 [main] TC003_LoginDDT - *******TC003_Test End!...******
+[INFO ] 2024-12-14 17:58:41.172 [main] Utils - [TestNG] Running:
+  C:\Users\marimuthu k\eclipse-workspace2\OrangeHRMV121\master.xml
+
+[INFO ] 2024-12-14 17:58:50.026 [main] TC003_LoginDDT - ***** Starting TC003_OrangeHRM_LoginDDT Test *****
+[INFO ] 2024-12-14 17:58:50.125 [main] TC003_LoginDDT - Enter the UserName
+[INFO ] 2024-12-14 17:58:50.236 [main] TC003_LoginDDT - Enter the Password
+[INFO ] 2024-12-14 17:58:51.708 [main] TC003_LoginDDT - Clicked on Login button
+[INFO ] 2024-12-14 17:58:54.796 [main] TC003_LoginDDT - *******TC003_Test End!...******
+[INFO ] 2024-12-14 17:58:54.810 [main] TC003_LoginDDT - ***** Starting TC003_OrangeHRM_LoginDDT Test *****
+[INFO ] 2024-12-14 17:58:55.265 [main] TC003_LoginDDT - Enter the UserName
+[INFO ] 2024-12-14 17:58:55.397 [main] TC003_LoginDDT - Enter the Password
+[INFO ] 2024-12-14 17:58:56.547 [main] TC003_LoginDDT - Clicked on Login button
+[INFO ] 2024-12-14 17:58:59.488 [main] TC003_LoginDDT - ***** Starting TC003_OrangeHRM_LoginDDT Test *****
+[INFO ] 2024-12-14 17:58:59.735 [main] TC003_LoginDDT - Enter the UserName
+[INFO ] 2024-12-14 17:58:59.886 [main] TC003_LoginDDT - Enter the Password
+[INFO ] 2024-12-14 17:59:00.748 [main] TC003_LoginDDT - Clicked on Login button
+[INFO ] 2024-12-14 17:59:10.771 [main] TC003_LoginDDT - *******TC003_Test End!...******
+[INFO ] 2024-12-14 17:59:10.788 [main] TC003_LoginDDT - ***** Starting TC003_OrangeHRM_LoginDDT Test *****
+[INFO ] 2024-12-14 17:59:10.925 [main] TC003_LoginDDT - Enter the UserName
+[INFO ] 2024-12-14 17:59:11.058 [main] TC003_LoginDDT - Enter the Password
+[INFO ] 2024-12-14 17:59:11.920 [main] TC003_LoginDDT - Clicked on Login button
+[INFO ] 2024-12-14 17:59:21.960 [main] TC003_LoginDDT - *******TC003_Test End!...******
+[INFO ] 2024-12-14 18:00:17.016 [main] Utils - [TestNG] Running:
+  C:\Users\marimuthu k\eclipse-workspace2\OrangeHRMV121\crossbrowsertesting.xml
+
+[INFO ] 2024-12-14 18:00:23.318 [main] TC001_OrangeHRMLoginTest - ***** Starting TC001_OrangeHRMLoginTest *****
+[INFO ] 2024-12-14 18:00:23.692 [main] TC001_OrangeHRMLoginTest - Enter the UserName
+[INFO ] 2024-12-14 18:00:23.805 [main] TC001_OrangeHRMLoginTest - Enter the Password
+[INFO ] 2024-12-14 18:00:25.281 [main] TC001_OrangeHRMLoginTest - Clicked on Login button
+[INFO ] 2024-12-14 18:00:25.697 [main] TC001_OrangeHRMLoginTest - Validating expected message!
+[INFO ] 2024-12-14 18:00:25.697 [main] TC001_OrangeHRMLoginTest - Finished TC001_OrangeHRMLoginTest!....
+[INFO ] 2024-12-14 18:00:37.839 [main] TC001_OrangeHRMLoginTest - ***** Starting TC001_OrangeHRMLoginTest *****
+[INFO ] 2024-12-14 18:00:38.259 [main] TC001_OrangeHRMLoginTest - Enter the UserName
+[INFO ] 2024-12-14 18:00:38.396 [main] TC001_OrangeHRMLoginTest - Enter the Password
+[INFO ] 2024-12-14 18:00:39.646 [main] TC001_OrangeHRMLoginTest - Clicked on Login button
+[INFO ] 2024-12-14 18:00:40.034 [main] TC001_OrangeHRMLoginTest - Validating expected message!
+[INFO ] 2024-12-14 18:00:40.034 [main] TC001_OrangeHRMLoginTest - Finished TC001_OrangeHRMLoginTest!....
+[INFO ] 2024-12-14 18:00:41.679 [main] TC001_OrangeHRMLoginTest - ***** Starting TC001_OrangeHRMLoginTest *****
+[INFO ] 2024-12-14 18:01:16.721 [main] Utils - [TestNG] Running:
+  C:\Users\marimuthu k\eclipse-workspace2\OrangeHRMV121\crossbrowsertesting.xml
+
+[INFO ] 2024-12-14 18:01:23.373 [main] TC001_OrangeHRMLoginTest - ***** Starting TC001_OrangeHRMLoginTest *****
+[INFO ] 2024-12-14 18:01:23.727 [main] TC001_OrangeHRMLoginTest - Enter the UserName
+[INFO ] 2024-12-14 18:01:23.829 [main] TC001_OrangeHRMLoginTest - Enter the Password
+[INFO ] 2024-12-14 18:01:25.067 [main] TC001_OrangeHRMLoginTest - Clicked on Login button
+[INFO ] 2024-12-14 18:01:25.416 [main] TC001_OrangeHRMLoginTest - Validating expected message!
+[INFO ] 2024-12-14 18:01:25.417 [main] TC001_OrangeHRMLoginTest - Finished TC001_OrangeHRMLoginTest!....
+[INFO ] 2024-12-14 18:01:32.298 [main] TC001_OrangeHRMLoginTest - ***** Starting TC001_OrangeHRMLoginTest *****
+[INFO ] 2024-12-14 18:01:32.703 [main] TC001_OrangeHRMLoginTest - Enter the UserName
+[INFO ] 2024-12-14 18:01:32.875 [main] TC001_OrangeHRMLoginTest - Enter the Password
+[INFO ] 2024-12-14 18:01:34.089 [main] TC001_OrangeHRMLoginTest - Clicked on Login button
+[INFO ] 2024-12-14 18:01:34.505 [main] TC001_OrangeHRMLoginTest - Validating expected message!
+[INFO ] 2024-12-14 18:01:34.505 [main] TC001_OrangeHRMLoginTest - Finished TC001_OrangeHRMLoginTest!....
+[INFO ] 2024-12-14 18:01:36.328 [main] TC001_OrangeHRMLoginTest - ***** Starting TC001_OrangeHRMLoginTest *****

@@ -1,0 +1,10 @@
+[DEBUG] 2024-12-10 23:27:33.816 [main] TestNG - suiteXmlPath: "C:\Users\marimuthu k\eclipse-workspace2\OrangeHRMV121\master.xml"
+[INFO ] 2024-12-10 23:27:34.158 [main] Utils - [TestNG] Running:
+  C:\Users\marimuthu k\eclipse-workspace2\OrangeHRMV121\master.xml
+
+[DEBUG] 2024-12-10 23:29:18.059 [main] TestNG - suiteXmlPath: "C:\Users\marimuthu k\eclipse-workspace2\OrangeHRMV121\master.xml"
+[INFO ] 2024-12-10 23:29:18.319 [main] Utils - [TestNG] Running:
+  C:\Users\marimuthu k\eclipse-workspace2\OrangeHRMV121\master.xml
+
+[INFO ] 2024-12-10 23:29:24.490 [main] TC002_RequirementTest - *****Starting TC_002_RequirementTest******
+[INFO ] 2024-12-10 23:29:28.664 [main] TC002_RequirementTest - *****Finished TC_002_RequirementTest******

@@ -1,0 +1,28 @@
+[INFO ] 2024-12-17 16:39:42.743 [main] Utils - [TestNG] Running:
+  C:\Users\marimuthu k\eclipse-workspace2\OrangeHRMV121\grid-docker.xml
+
+[INFO ] 2024-12-17 16:43:51.181 [main] Utils - [TestNG] Running:
+  C:\Users\marimuthu k\eclipse-workspace2\OrangeHRMV121\grid-docker.xml
+
+[INFO ] 2024-12-17 17:28:20.619 [main] Utils - [TestNG] Running:
+  C:\Users\marimuthu k\eclipse-workspace2\OrangeHRMV121\grid-docker.xml
+
+[INFO ] 2024-12-17 18:34:02.185 [main] TC003_LoginDDT - ***** Starting TC003_OrangeHRM_LoginDDT Test *****
+[INFO ] 2024-12-17 18:34:02.271 [main] TC003_LoginDDT - Enter the UserName
+[INFO ] 2024-12-17 18:34:02.406 [main] TC003_LoginDDT - Enter the Password
+[INFO ] 2024-12-17 18:34:03.520 [main] TC003_LoginDDT - Clicked on Login button
+[INFO ] 2024-12-17 18:34:06.474 [main] TC003_LoginDDT - *******TC003_Test End!...******
+[INFO ] 2024-12-17 18:34:06.482 [main] TC003_LoginDDT - ***** Starting TC003_OrangeHRM_LoginDDT Test *****
+[INFO ] 2024-12-17 18:34:06.862 [main] TC003_LoginDDT - Enter the UserName
+[INFO ] 2024-12-17 18:34:06.937 [main] TC003_LoginDDT - Enter the Password
+[INFO ] 2024-12-17 18:34:08.034 [main] TC003_LoginDDT - Clicked on Login button
+[INFO ] 2024-12-17 18:34:09.953 [main] TC003_LoginDDT - ***** Starting TC003_OrangeHRM_LoginDDT Test *****
+[INFO ] 2024-12-17 18:34:10.261 [main] TC003_LoginDDT - Enter the UserName
+[INFO ] 2024-12-17 18:34:10.360 [main] TC003_LoginDDT - Enter the Password
+[INFO ] 2024-12-17 18:34:11.128 [main] TC003_LoginDDT - Clicked on Login button
+[INFO ] 2024-12-17 18:34:21.186 [main] TC003_LoginDDT - *******TC003_Test End!...******
+[INFO ] 2024-12-17 18:34:21.202 [main] TC003_LoginDDT - ***** Starting TC003_OrangeHRM_LoginDDT Test *****
+[INFO ] 2024-12-17 18:34:21.310 [main] TC003_LoginDDT - Enter the UserName
+[INFO ] 2024-12-17 18:34:21.376 [main] TC003_LoginDDT - Enter the Password
+[INFO ] 2024-12-17 18:34:22.149 [main] TC003_LoginDDT - Clicked on Login button
+[INFO ] 2024-12-17 18:34:32.203 [main] TC003_LoginDDT - *******TC003_Test End!...******
